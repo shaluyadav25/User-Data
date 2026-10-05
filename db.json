@@ -1,0 +1,10 @@
+{
+  "user": [
+    {
+      "name": "Shalu yadav",
+      "email": "saluyadav102@gmail.com",
+      "id": "Z9B9_vT9Bz0"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
